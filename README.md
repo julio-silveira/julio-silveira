@@ -9,7 +9,7 @@ No meu tempo livre eu adoro jogar(principalmente LoL  ou algum roguelike/rogueli
 
 
 ## Um pouco mais sobre mim
-👩‍💻 Trabalho atualmente na área de educação.
+👩‍💻 Trabalho atualmente com educação e estou em transição de carreira para desenvolvimento web.
 
 🧠 Estou aprendendo a trabalhar com Back-End
 
