@@ -3,8 +3,8 @@
 
 
 ## 🚀 Sobre mim
-Eu sou formado em física, atuei 3 anos como professor/coordenador 
-educacional, mas sempre fui apaixonado por tecnologia e inovação, por isso, decidi me aventurar nesse mundo mágico do desenvolvimento web e Trybe é minha principal aliada nessa aventura!!!
+Eu sou formado em física, atuei por 3 anos como professor/coordenador 
+educacional, mas sempre fui apaixonado por tecnologia e inovação, por isso, decidi me aventurar nesse mundo mágico do desenvolvimento web e a Trybe é minha principal aliada nessa aventura!!!
 No meu tempo livre eu adoro jogar(principalmente LoL  ou algum roguelike/roguelite) e brincar com meus gatos (e codar um pouco mais 😁).
 
 
