@@ -39,8 +39,7 @@ No meu tempo livre eu adoro jogar(principalmente LoL  ou algum roguelike/rogueli
 
 ## GitHub Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-silveira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-silveira&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julio-silveira&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julio-silveira&layout=compact&theme=radical)
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliosilveiradev/)
 
