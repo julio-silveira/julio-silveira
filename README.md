@@ -17,9 +17,6 @@ No meu tempo livre eu adoro jogar(principalmente LoL  ou algum roguelike/rogueli
 💬 Me pergunte sobre física, roguelites e React.js.
 
 
-⚡️ Fatos engraçados: Já fui Mono Kled e atualmente sou mono Sett (Não pergunte o elo!)
-
-
 
 ## 🛠 Habilidades
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
