@@ -10,7 +10,7 @@ No meu tempo livre eu adoro jogar(principalmente LoL  ou algum roguelike/rogueli
 
 
 ## Um pouco mais sobre mim
-👩‍💻 Atualmente atuo como freelancer de desenvolvimento web fullstack e estou buscando uma nova oportunidade para aplicar minhas habilidades em uma empresa. 
+👩‍💻 Atualmente atuo como desenvolvedor web fullstack pela [Shopper.com.br](https://landing.shopper.com.br/)
 
 🧠 Estou aprendendo Python.
 
