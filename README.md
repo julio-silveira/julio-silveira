@@ -10,9 +10,9 @@ No meu tempo livre eu adoro jogar(principalmente LoL  ou algum roguelike/rogueli
 
 
 ## Um pouco mais sobre mim
-👩‍💻 Atualmente atuo como desenvolvedor web fullstack pela [Shopper.com.br](https://landing.shopper.com.br/)
+👩‍💻 Atualmente atuo como desenvolvedor web fullstack na [OZmap](https://ozmap.net/)
 
-🧠 Estou aprendendo Python.
+🧠 Estou aprendendo arquitetura de software.
 
 💬 Me pergunte sobre física, roguelites, React e NestJS.
 
